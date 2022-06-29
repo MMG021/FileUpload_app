@@ -2,6 +2,9 @@ package com.example.fileupload;
 
 import android.app.Activity;
 
-public class UploadFragment extends Activity {
+import androidx.fragment.app.Fragment;
+
+public class UploadFragment extends Fragment {
+
 
 }
